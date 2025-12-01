@@ -1,0 +1,6 @@
+inputs/day_*
+*.out
+*.o
+*.elf
+*.exe
+*.bin
