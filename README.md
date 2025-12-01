@@ -1,5 +1,7 @@
 # advent of code 2025
-- [ ] day 01
+- [ ] rewrite or simulate solutions in [uxntal](https://wiki.xxiivv.com/site/uxntal.html) after aoc ends
+## days
+- [x] day 01
 - [ ] day 02
 - [ ] day 03
 - [ ] day 04
