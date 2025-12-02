@@ -2,7 +2,7 @@
 - [ ] rewrite or simulate solutions in [uxntal](https://wiki.xxiivv.com/site/uxntal.html) after aoc ends
 ## days
 - [x] day 01
-- [ ] day 02
+- [x] day 02
 - [ ] day 03
 - [ ] day 04
 - [ ] day 05
