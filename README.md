@@ -1,12 +1,14 @@
 # advent of code 2025
+- [ ] optimize/fix errors existing c code after aoc ends
 - [ ] rewrite or simulate solutions in [uxntal](https://wiki.xxiivv.com/site/uxntal.html) after aoc ends
+
 ## days
 - [x] day 01
 - [x] day 02
 - [x] day 03
 - [x] day 04
 - [x] day 05
-- [ ] day 06
+- [x] day 06
 - [ ] day 07
 - [ ] day 08
 - [ ] day 09
